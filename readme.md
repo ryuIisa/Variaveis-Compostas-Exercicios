@@ -21,12 +21,12 @@
 
 ---
 
-<!-- ## ✦ Exercício 2 — Valores únicos em uma Lista 🟡
-> Em breve...
+## ✦ Exercício 2 — Valores únicos em uma Lista 🟡
+> Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 
 ---
 
-## ✦ Exercício 3 — Lista ordenada sem repetições 🟡
+<!-- ## ✦ Exercício 3 — Lista ordenada sem repetições 🟡
 > Em breve...
 
 ---
