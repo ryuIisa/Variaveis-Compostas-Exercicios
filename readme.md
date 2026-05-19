@@ -26,12 +26,12 @@
 
 ---
 
-<!-- ## ✦ Exercício 3 — Lista ordenada sem repetições 🟡
-> Em breve...
+## ✦ Exercício 3 — Lista ordenada sem repetições 🟡
+> Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela
 
 ---
 
-## ✦ Exercício 4 — Extraindo dados de uma Lista 🟡
+<!-- ## ✦ Exercício 4 — Extraindo dados de uma Lista 🟡
 > Em breve...
 
 ---
