@@ -31,17 +31,20 @@
 
 ---
 
-<!-- ## ✦ Exercício 4 — Extraindo dados de uma Lista 🟡
-> Em breve...
+ ## ✦ Exercício 4 — Extraindo dados de uma Lista 🟡
+> Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: <br>
+A) Quantos números foram digitados <br>
+B) A lista de valores, ordenada de forma decrescente. <br>
+C) Se o valor 5 foi digitado e está ou não na lista. <br>
 
 ---
 
-## ✦ Exercício 5 — Dividindo valores em várias listas 🟡
-> Em breve...
+ ## ✦ Exercício 5 — Dividindo valores em várias listas 🟡
+> Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 
 ---
 
-## ✦ Exercício 6 — Validando expressões matemáticas 🔴
+<!-- ## ✦ Exercício 6 — Validando expressões matemáticas 🔴
 > Em breve...
 
 ---
